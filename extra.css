@@ -1,0 +1,27 @@
+::-webkit-scrollbar {
+    width: 10px; /* Width of the scrollbar */
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #333; /* Background color of the track */
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: #666; /* Color of the thumb */
+    border-radius: 5px; /* Radius of the thumb */
+  }
+  
+  /* Firefox */
+  scrollbar {
+    width: 10px; /* Width of the scrollbar */
+  }
+  
+  scrollbar-track {
+    background: #333; /* Background color of the track */
+  }
+  
+  scrollbar-thumb {
+    background: #666; /* Color of the thumb */
+    border-radius: 5px; /* Radius of the thumb */
+  }
+  
